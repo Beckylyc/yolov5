@@ -61,7 +61,7 @@ pip install ultralytics
 See the [YOLOv5 Docs](https://docs.ultralytics.com/yolov5) for full documentation on training, testing, and deployment. See below for quickstart examples.
 
 <details open>
-<summary>Install</summary>
+<summary>install</summary>
 
 Clone the repository and install dependencies in a [**Python>=3.8.0**](https://www.python.org/) environment. Ensure you have [**PyTorch>=1.8**](https://pytorch.org/get-started/locally/) installed.
 
